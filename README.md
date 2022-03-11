@@ -1,4 +1,4 @@
-My personal guide/reference for setting up Arch on my T480s with the glorious dot files.
+My personal guide/reference for setting up Arch on my T480s with the Awesome window manager Floppier theme forked from the [glorious dot files](https://github.com/manilarome/the-glorious-dotfiles).
 
 Things to do:
 
