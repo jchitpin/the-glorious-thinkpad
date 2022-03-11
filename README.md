@@ -1,5 +1,22 @@
-Major work in progress bug-fixing the-glorious-dotfiles and tweaking specifically for my T480s Thinkpad running Arch.
+My personal guide/reference for setting up Arch on my T480s with the glorious dot files.
 
+Things to do:
+
+* Include some Arch-related installer stuff (mostly for myself)
+* Update/bug-fix glorious dot file code
+* Add some relevant features for Thinkpads
+
+
+[![maintained](https://img.shields.io/badge/Maintained%3F-Yes-brightgreen.svg)](https://github.com/jchitpin/the-glorious-thinkpad/commits/master) 
+
+[![note](https://img.shields.io/badge/Note:-Major_WIP-red.svg)](https://bitbucket.org/lbesson/ansi-colors)
+	
+<!-- [![contributions](https://img.shields.io/badge/contribution-welcome-brightgreen&?style=flat-square)](https://github.com/jchitpin/the-glorious-thinkpad/pulls) -->
+
+<!--[![HitCount](http://hits.dwyl.com/jchitpin/Glorified-Dotfiles.svg)](http://hits.dwyl.com/jchitpin/the-glorified-thinkpad) -->
+
+<!--
+	
 
 <div align='center'>
     <h3>
@@ -14,13 +31,6 @@ Major work in progress bug-fixing the-glorious-dotfiles and tweaking specificall
 
 <div align='center'>
 
-[![maintained](https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg)](https://github.com/jchitpin/the-glorious-thinkpad/commits/master) 
-
-<!-- [![contributions](https://img.shields.io/badge/contribution-welcome-brightgreen&?style=flat-square)](https://github.com/jchitpin/the-glorious-thinkpad/pulls) -->
-
-<!--[![HitCount](http://hits.dwyl.com/jchitpin/Glorified-Dotfiles.svg)](http://hits.dwyl.com/jchitpin/the-glorified-thinkpad) -->
-
-	
 </div>
 
 <div align='center'>
@@ -233,9 +243,3 @@ Some of these are outdated, so it is better if you try them yourself.
 | ![Screenshot](https://raw.githubusercontent.com/manilarome/the-glorious-screenshots/master/thunderblurred.webp) |
 
 ## Credits
-
-Grazie
-
-- [Contributors](https://github.com/manilarome/the-glorious-dotfiles/graphs/contributors)
-- [awesomewm devs](https://github.com/awesomeWM/awesome/graphs/contributors)
-- The community of course
